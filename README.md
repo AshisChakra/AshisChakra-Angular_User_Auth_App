@@ -90,7 +90,7 @@ src/
 ## Building for Production
 
 ```bash
-npm run build
+ng serve
 ```
 
 The build artifacts will be stored in the `dist/` directory.
