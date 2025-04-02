@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "role": "User"
+    }
+  ],
+  "profiles": [
+    {
+      "userId": 1,
+      "bio": "Software developer with 5 years of experience in web development.",
+      "location": "New York, USA",
+      "website": "https://example.com",
+      "socialLinks": {
+        "twitter": "https://twitter.com/adminuser",
+        "linkedin": "https://linkedin.com/in/adminuser"
+      }
+    },
+    {
+      "userId": 2,
+      "bio": "UX designer passionate about creating intuitive user experiences.",
+      "location": "San Francisco, USA",
+      "website": "https://janesmith.com",
+      "socialLinks": {
+        "twitter": "https://twitter.com/janesmith",
+        "linkedin": "https://linkedin.com/in/janesmith"
+      }
+    },
+    {
+      "userId": 3,
+      "bio": "Product manager with a background in marketing and business development.",
+      "location": "London, UK",
+      "website": "",
+      "socialLinks": {
+        "twitter": "https://twitter.com/bobjohnson",
+        "linkedin": "https://linkedin.com/in/bobjohnson"
+      }
+    }
+  ],
+  "tableData": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "category": "Electronics",
+      "date": "2023-01-15",
+      "status": "Active",
+      "amount": 299
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "category": "Clothing",
+      "date": "2023-02-20",
+      "status": "Active",
+      "amount": 59
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "category": "Books",
+      "date": "2023-03-10",
+      "status": "Inactive",
+      "amount": 25
+    },
+    {
+      "id": 4,
+      "name": "Item 4",
+      "category": "Electronics",
+      "date": "2023-04-05",
+      "status": "Active",
+      "amount": 499
+    },
+    {
+      "id": 5,
+      "name": "Item 5",
+      "category": "Food",
+      "date": "2023-05-12",
+      "status": "Pending",
+      "amount": 15
+    },
+    {
+      "id": 6,
+      "name": "Item 6",
+      "category": "Clothing",
+      "date": "2023-06-18",
+      "status": "Active",
+      "amount": 89
+    },
+    {
+      "id": 7,
+      "name": "Item 7",
+      "category": "Books",
+      "date": "2023-07-22",
+      "status": "Inactive",
+      "amount": 35
+    },
+    {
+      "id": 8,
+      "name": "Item 8",
+      "category": "Electronics",
+      "date": "2023-08-30",
+      "status": "Active",
+      "amount": 199
+    },
+    {
+      "id": 9,
+      "name": "Item 9",
+      "category": "Food",
+      "date": "2023-09-05",
+      "status": "Pending",
+      "amount": 12
+    },
+    {
+      "id": 10,
+      "name": "Item 10",
+      "category": "Clothing",
+      "date": "2023-10-10",
+      "status": "Active",
+      "amount": 129
+    }
+  ]
+}
